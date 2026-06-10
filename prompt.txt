@@ -1,0 +1,47 @@
+GENERATIVE AI TOOL USED: ChatGPT
+
+Prompt:
+Create a 2D Graphics Editor in C.
+
+Response:
+Generated a menu-driven C program using a 2D character array with rectangle, line, triangle and circle drawing functions.
+
+--------------------------------------------------
+
+Prompt:
+How do I compile and run test.c in VS Code?
+
+Response:
+Use:
+gcc test.c -o test
+.\test
+
+--------------------------------------------------
+
+Prompt:
+How do I connect VS Code to GitHub?
+
+Response:
+Provided Git installation and GitHub repository setup steps.
+
+--------------------------------------------------
+
+Prompt:
+How do I upload code to GitHub?
+
+Response:
+Use:
+git add .
+git commit -m "Project update"
+git push origin main
+
+--------------------------------------------------
+
+Prompt:
+How do I remove editor.c and keep test.c as the final submission?
+
+Response:
+Use:
+git rm editor.c
+git commit -m "Remove editor.c"
+git push origin main
